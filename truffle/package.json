@@ -1,0 +1,13 @@
+{
+	"name": "truffle-compose",
+	"version": "1.0.0",
+	"description": "truffle demo",
+	"author": "Zen zumai",
+	"license": "MIT",
+	"scripts": {
+		"init": "truffle init",
+		"start": "truffle deploy --network $DEPLOY_ENV"
+	},
+	"dependencies": {
+	}
+}

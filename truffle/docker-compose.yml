@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  truffle:
+    build: .
+    environment:
+      DEPLOY_ENV: rinkeby
+    working_dir: /truffle
+    volumes:
+      - ./:/truffle
+    command: "npm run start"

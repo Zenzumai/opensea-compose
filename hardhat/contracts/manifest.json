@@ -5,7 +5,7 @@
       "chainId": "4",
       "contracts": {
         "Greeter": {
-          "address": "0xE2dB328D93c3bcD45c656b82f399c88642D89dE4",
+          "address": "0x7B09E48eab84F55569FC69E1e94173746c887811",
           "abi": [
             {
               "inputs": [
